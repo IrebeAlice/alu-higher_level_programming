@@ -1,3 +1,8 @@
+<<<<<<< HEAD
 #!/usr/bin/bash
 python3  $PYFILE
 
+=======
+#!/bin/python3 
+$PYFILE
+>>>>>>> eeec1f14cb3bb1f4a7cee6d46d8a7f054d946541
