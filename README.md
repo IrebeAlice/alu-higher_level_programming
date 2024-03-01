@@ -1,1 +1,1 @@
-readme
+echo "readme" > README.md
