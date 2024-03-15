@@ -3,4 +3,3 @@
 class square:
     """represent a spuare,"""
     pass
-
