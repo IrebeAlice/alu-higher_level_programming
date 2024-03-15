@@ -1,5 +1,7 @@
 #!/usr/bin/python3
 """difine a class spuare,"""
-class square:
+
+class Square:
+
     """represent a spuare,"""
     pass
