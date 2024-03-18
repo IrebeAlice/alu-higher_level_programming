@@ -1,16 +1,8 @@
 #!/usr/bin/python3
-""" defines a class student to json"""
+""" a python class to json function """
 
 
-class Student:
-    """ has student attributes """
-    def __init__(self, first_name, last_name, age):
-        """ initialization function """
-        self.first_name = first_name
-        self.last_name = last_name
-        self.age = age
-
-    def to_json(self):
-        """ return dict representation of Student"""
-        return self.__dict__
+def class_to_json(obj):
+    """ return a dictionary representaion of a simple data structure """
+    return obj.__dict__
     
